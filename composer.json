@@ -1,0 +1,18 @@
+{
+    "name": "margarita_ml/lrv-hw-intro",
+    "description": "Домашнее задание по Composer",
+    "autoload": {
+        "psr-4": {
+            "MargaritaMl\\LrvHwIntro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Margarita May Lee",
+            "email": "ritochka.m_lee@yahoo.com"
+        }
+    ],
+    "require-dev": {
+        "psr/log": "^3.0"
+    }
+}
