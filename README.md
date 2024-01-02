@@ -1,6 +1,19 @@
 Домашнее задание по Laravel (часть 3)
 
-Вопрос 1. Сейчас в моем файле composer.json подключен пакет "psr/log": "^3.0"
+Вопрос 1.  "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.2",
+        "laravel/framework": "^10.10",
+        "laravel/sanctum": "^3.3",
+        "laravel/tinker": "^2.8"
+    
+        "fakerphp/faker": "^1.9.1",
+        "laravel/pint": "^1.0",
+        "laravel/sail": "^1.18",
+        "mockery/mockery": "^1.4.4",
+        "nunomaduro/collision": "^7.0",
+        "phpunit/phpunit": "^10.1",
+        "spatie/laravel-ignition": "^2.0"
+    
 Вопрос 2. Файл app.php каталога config отвечает за URL, временные зоны и т.д. приложения
 Файл auth.php каталога config отвечает за аутонтификацию и защиту аутонтификации и т.д. 
 Файл broadcasting.php каталога config отвечает за параметры соединения
